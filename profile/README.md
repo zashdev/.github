@@ -22,13 +22,5 @@ Remote works for us, but we are looking for residence in either London, Ankara o
 
 If you want to work with us, apply below.
 
-<p align="center" width="100%">
-
-  <a href="https://quine.sh/apply/81538077" target="_blank" rel="noopener">
-
-    <img width="40%" src="https://quine.sh/images/awq/btn-81538077.png" alt="Apply with Quine">
-
-  </a>
-
-</p>
+<a href="https://quine.sh/apply/81538077" target="_blank" rel="noopener"><img src="https://quine.sh/images/awq/btn-81538077.png" alt="Apply with Quine" width="412" height="55" /></a>
 
