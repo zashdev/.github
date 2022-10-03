@@ -8,8 +8,6 @@ To solve this we have launched a multi-chain NFT data indexer which converts con
 
 We recently partnered with an industry giant, Binance to take this to the world! Read all about it [here](https://www.zashfinance.xyz/news/zash-the-enterprise-grade-nft-analytics-platform-announces-partnership-with-binance).
 
-<br/><br/>
-
 <h1 align="left">Join us</h1>
 
 We are a team of 6 passionate technologists, having launched a social network built on blockchain data in 2021. Coming from unicorn AI companies such as Tractable to tradfi such as Goldman Sachs, the team is building necessary infrastructure for data-driven product development on the blockchain, starting with taming the eye of the storm – NFTs.
