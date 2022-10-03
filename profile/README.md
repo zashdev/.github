@@ -20,6 +20,5 @@ We are a remote-first team. If you want to work with us, apply below.
 <br/><br/>
 
 <p align='center'>
-    <a href="https://quine.sh/apply/81538077" target="_blank" rel="noopener"><img src="https://quine.sh/images/awq/btn-81538077.png" alt="Apply with Quine" width="60%"/></a>
-
+    <a href="https://quine.sh/apply/81538077" target="_blank" rel="noopener"><img src="https://quine.sh/images/awq/btn-81538077.png" alt="Apply with Quine" width="30%"/></a>
 </p>
